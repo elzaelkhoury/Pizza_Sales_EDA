@@ -2,7 +2,7 @@
 
 ## Overview
 This project explores pizza sales data to identify trends, best-selling items, and customer behavior patterns.  
-The main goal is to use data cleaning and SQL analysis to uncover insights that can help improve business performance and sales strategy.
+The main goal is to use SQL analysis to uncover insights that can help improve business performance and sales strategy.
 
 ---
 
