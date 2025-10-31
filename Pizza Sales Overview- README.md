@@ -7,18 +7,12 @@ The main goal is to use SQL analysis to uncover insights that can help improve b
 ---
 
 ## Tools & Techniques Used
-- **Excel** → data cleaning (handled missing values, removed duplicates, standardized column names)
-- **MySQL** → exploratory data analysis (aggregations, joins, date/time analysis, trend identification)
+**MySQL** → exploratory data analysis (aggregations, date/time analysis, trend identification)
 
 ---
 
-## Key Steps
-1. **Data Cleaning in Excel**
-   - Removed duplicates and blank rows.  
-   - Fixed inconsistent names and formats.  
-   - Standardized date and price columns.  
-
-2. **EDA in MySQL**
+## Key Steps 
+ **EDA in MySQL**
    - Analyzed total revenue, order counts, and average order value.  
    - Found top-selling pizza types and sizes.  
    - Identified busiest days and peak order hours.  
